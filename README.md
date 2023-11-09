@@ -2,7 +2,7 @@
 
 This is a 100% on-chain SVG NFT app built using Next.js and Web3.0 technologies. Users can create and manage their updatable robot NFTs that can be trained and upgraded.
 
-- see [demo site]()
+- see [demo site](https://robot-nft-frontend-app.vercel.app/)
 - see [the smart contract](https://github.com/weiweiyeih/robot-nft-smart-contract)
 
 ## Technologies Used
