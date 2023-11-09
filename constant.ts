@@ -1,0 +1,1 @@
+export const robotNftContractAddress = "0xEAd466EB17346BFbfDa8f50527CcE3baebc7B093"
